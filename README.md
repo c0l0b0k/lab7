@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ### Запуск
 
-1. **Запуск RabbitMQ**:
+1. **Запуск RabbitMQ**
 
 2. **Запуск Producer**:
    Пример:
